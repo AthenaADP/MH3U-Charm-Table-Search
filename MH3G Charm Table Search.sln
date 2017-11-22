@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MH3G Charm Table Search", "MH3G Charm Table Search\MH3G Charm Table Search.vcxproj", "{5086F2B2-B1DF-45A4-B91C-79A95415BD9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5086F2B2-B1DF-45A4-B91C-79A95415BD9E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5086F2B2-B1DF-45A4-B91C-79A95415BD9E}.Debug|Win32.Build.0 = Debug|Win32
+		{5086F2B2-B1DF-45A4-B91C-79A95415BD9E}.Release|Win32.ActiveCfg = Release|Win32
+		{5086F2B2-B1DF-45A4-B91C-79A95415BD9E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51DB7BA1-936F-439F-9FE9-A75BB2992F92}
+	EndGlobalSection
+EndGlobal
